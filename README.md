@@ -68,3 +68,15 @@ You can observe each step of the sorting algorithms in real time and control the
 ## Contributions
 
 Feel free to fork the repository and submit pull requests. For significant changes, please open an issue first to discuss what you would like to change.
+
+## Screenshots
+
+![Home Page](https://raw.githubusercontent.com/TishaMazumdar/visualizer-sorting/main/screenshots/WhatsApp%20Image%202023-09-05%20at%2005.38.32.jpeg)
+
+![Bubble Sort Ascending](https://raw.githubusercontent.com/TishaMazumdar/visualizer-sorting/main/screenshots/WhatsApp%20Image%202023-09-05%20at%2005.39.07.jpeg)
+
+![Bubble Sort Descending](https://raw.githubusercontent.com/TishaMazumdar/visualizer-sorting/main/screenshots/WhatsApp%20Image%202023-09-05%20at%2005.39.47.jpeg)
+
+![Insertion Sort Ascending](https://raw.githubusercontent.com/TishaMazumdar/visualizer-sorting/main/screenshots/WhatsApp%20Image%202023-09-05%20at%2005.40.15.jpeg)
+
+![Insertion Sort Descending](https://raw.githubusercontent.com/TishaMazumdar/visualizer-sorting/main/screenshots/WhatsApp%20Image%202023-09-05%20at%2005.40.52.jpeg)
